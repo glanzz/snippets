@@ -3,7 +3,8 @@
 Import snippets of code from any git repository dynamically to your working repository.
 
 #### Use Cases
-- Control part of code without deployment just by development
+- Control part of code without deployment just by development. Version your config file and use it
+- Runtime import of utility functions from one repository for personal projects
 
 
 Easy Install:
