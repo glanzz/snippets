@@ -6,6 +6,7 @@ Import snippets of code from any git repository dynamically to your working repo
 - Control part of code without deployment just by development. Version your config file and use it
 - Runtime import of utility functions from one repository for personal projects
 - Reuse API integrations functions across multiple repositories
+- Run scripts for cron jobs without deploying multiple times to during development
 
 
 Easy Install:
