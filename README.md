@@ -1,6 +1,10 @@
 ### Snippets
 
-Import snippets of code from any git repository dynamically to your working repository
+Import snippets of code from any git repository dynamically to your working repository.
+
+#### Use Cases
+- Control part of code without deployment just by development
+
 
 Easy Install:
 
@@ -15,5 +19,6 @@ Easy Install:
 ```python
 print(snip.var1)
 ```
+
 
 This is beta version for demonstrating the idea. If any issues found or feature to be added feel free to contribute.
